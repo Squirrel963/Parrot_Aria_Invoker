@@ -1,4 +1,4 @@
-# Parrot_Aria_Invoker
+# Parrot Aria Invoker
 Graphical aria2 based on the Streamlit lib Invoke the tool
 
 其他语言 Other Language：
