@@ -14,7 +14,7 @@ pip install aria2p
 ```shell
 streamlit hello
 ```
-下载您需要的 PAI 版本
+[下载您需要的 PAI 版本](https://github.com/Squirrel963/Parrot_Aria_Invoker/releases/tag/release)
 
 ## 运行
 下载完成后，将其解压缩并使用终端打开文件夹，使用以下命令来启动PAI：
