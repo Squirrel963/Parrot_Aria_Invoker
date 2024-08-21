@@ -32,9 +32,9 @@ The default values are as follows:
 45    t_port = st.text_input("port","16800")
 46    t_secret = st.text_input("secret key","WfwNk6K8hUpy")
 ```
-Let's say your RPC address is http://114514.org:1145
-And the secret key is 1919810
-You will be able to modify the code to:
+If your RPC address is *http://114514.org:1145*
+And the secret key is *1919810*
+You can modify the code to:
 ```python
 44    t_host = st.text_input("host","http://114514.org")
 45    t_port = st.text_input("port","1145")
