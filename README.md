@@ -12,3 +12,11 @@ Use the command to test streamlit:
 ```shell
 streamlit hello
 ```
+Download the PAI version that you need
+
+## Run
+Once the download is complete, unzip it and open the folder using Terminal：
+```shell
+streamlit run PWUI.py
+```
+Or you can simply open the ***PWUI_starter.bat*** file in the folder to start PAI
