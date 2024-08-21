@@ -17,7 +17,7 @@ streamlit hello
 下载您需要的 PAI 版本
 
 ## 运行
-下载完成后，将其解压缩并使用终端打开文件夹：
+下载完成后，将其解压缩并使用终端打开文件夹，使用以下命令来启动PAI：
 ```shell
 streamlit run PWUI.py
 ```
