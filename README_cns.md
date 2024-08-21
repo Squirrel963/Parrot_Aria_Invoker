@@ -31,8 +31,8 @@ streamlit run PWUI.py
 45    t_port = st.text_input("port","16800")
 46    t_secret = st.text_input("secret key","WfwNk6K8hUpy")
 ```
-假设您的rpc地址为http://114514.org:1145
-且secret key为1919810
+假设您的rpc地址为*http://114514.org:1145*
+且secret key为*1919810*
 您将可以把代码修改为：
 ```python
 44    t_host = st.text_input("host","http://114514.org")
