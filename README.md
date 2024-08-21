@@ -10,6 +10,5 @@ pip install aria2p
 reference[official strymllit documentation](https://docs.streamlit.io/get-started/installation)
 Use the command to test streamlit:
 ```shell
-pip install streamlit
-pip install aria2p
+streamlit hello
 ```
