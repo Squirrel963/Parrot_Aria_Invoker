@@ -21,4 +21,4 @@ streamlit hello
 ```shell
 streamlit run PWUI.py
 ```
-或者您可以简单地打开文件夹中的PWUI_starter.bat文件以启动PAI
+或者您可以直接打开文件夹中的***PWUI_starter.bat***文件以启动PAI
