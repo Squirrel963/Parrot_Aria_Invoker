@@ -15,7 +15,7 @@ Use the command to test streamlit:
 ```shell
 streamlit hello
 ```
-Download the PAI version that you need
+[Download the PAI version that you need](https://github.com/Squirrel963/Parrot_Aria_Invoker/releases/tag/release)
 
 ## Run
 Once the download is complete, unzip it and open the folder using Terminal：
