@@ -1,6 +1,9 @@
 # Parrot_Aria_Invoker
 Graphical aria2 based on the Streamlit lib Invoke the tool
 
+其他语言 Other Language：
+[简体中文版本](readme_cns.md)
+
 ## Configure the runtime environment
 To run PAI on your computer, you need to install 2 required dependencies：
 ```shell
