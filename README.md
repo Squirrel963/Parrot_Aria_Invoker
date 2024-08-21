@@ -25,8 +25,7 @@ streamlit run PWUI.py
 Or you can simply open the ***PWUI_starter.bat*** file in the folder to start PAI
 
 ## Change the default settings
-You can change the default settings by modifying lines 44~46 of the code:
-The default values are as follows:
+You can change the default settings by modifying lines 44~46 of the code , the default values are as follows:
 ```python
 44    t_host = st.text_input("host","http://localhost")
 45    t_port = st.text_input("port","16800")
