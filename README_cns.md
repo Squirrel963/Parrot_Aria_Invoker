@@ -24,7 +24,7 @@ streamlit run PWUI.py
 或者您可以直接打开文件夹中的***PWUI_starter.bat***文件以启动PAI
 
 ## 更改默认设置
-您可以通过修改代码的44行~46行来实现更改默认设置：
+您可以通过修改代码的44行~46行来实现更改默认设置，
 默认值如下：
 ```python
 44    t_host = st.text_input("host","http://localhost")
