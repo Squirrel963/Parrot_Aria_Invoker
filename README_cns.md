@@ -1,4 +1,4 @@
-# Parrot_Aria_Invoker
+# Parrot Aria Invoker
 基于Streamlit库的aria2图形化调用工具
 
 其他语言 Other Language：
@@ -18,6 +18,7 @@ streamlit hello
 
 ## 运行
 下载完成后，将其解压缩并使用终端打开文件夹：
-
+```shell
 streamlit run PWUI.py
+```
 或者您可以简单地打开文件夹中的PWUI_starter.bat文件以启动PAI
