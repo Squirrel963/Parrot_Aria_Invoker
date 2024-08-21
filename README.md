@@ -23,3 +23,24 @@ Once the download is complete, unzip it and open the folder using Terminal：
 streamlit run PWUI.py
 ```
 Or you can simply open the ***PWUI_starter.bat*** file in the folder to start PAI
+
+## Change the default settings
+You can change the default settings by modifying lines 44~46 of the code:
+The default values are as follows:
+```python
+44    t_host = st.text_input("host","http://localhost")
+45    t_port = st.text_input("port","16800")
+46    t_secret = st.text_input("secret key","WfwNk6K8hUpy")
+```
+Let's say your RPC address is http://114514.org:1145
+And the secret key is 1919810
+You will be able to modify the code to:
+```python
+44    t_host = st.text_input("host","http://114514.org")
+45    t_port = st.text_input("port","1145")
+46    t_secret = st.text_input("secret key","1919810")
+```
+
+You can also modify it directly on the Graphics panel
+However, the settings of the graphical panel are only suitable for temporary use
+This is because when you refresh the page, all settings will be reset to the defaults set in the code
