@@ -13,7 +13,11 @@ pip install aria2p
 参考[strymllit官方文档](https://docs.streamlit.io/get-started/installation) 使用命令测试 streamlit：
 ```shell
 streamlit hello
-```
+```  
+如果 streamlit 没有如期运行，您可用使用以下命令来测试：
+```shell
+python -m streamlit hello
+```  
 [下载您需要的 PAI 版本](https://github.com/Squirrel963/Parrot_Aria_Invoker/releases/tag/release)
 
 ## 运行
