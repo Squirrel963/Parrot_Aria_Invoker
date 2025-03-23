@@ -15,6 +15,10 @@ Use the command to test streamlit:
 ```shell
 streamlit hello
 ```
+If streamlit doesn't run as expected, you can test it with the following command:
+```shell
+python -m streamlit hello
+```  
 [Download the PAI version that you need](https://github.com/Squirrel963/Parrot_Aria_Invoker/releases/tag/release)
 
 ## Run
